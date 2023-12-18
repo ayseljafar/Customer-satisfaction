@@ -13,9 +13,7 @@ from nltk.stem import WordNetLemmatizer
 
 # Read the dataset
 df = pd.read_csv("reviews.csv", lineterminator='\n', header=0)
-
 # Assign unique index numbers
-df.drop('Unnamed: 0', axis=1, inplace=True)
 df.reset_index(drop=True, inplace=True)
 
 
