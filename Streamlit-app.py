@@ -7,6 +7,7 @@ from io import StringIO
 from joblib import load
 from sklearn.feature_extraction.text import TfidfVectorizer
 import nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 import re
 from nltk.stem import WordNetLemmatizer
