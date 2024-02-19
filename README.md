@@ -1,4 +1,4 @@
-## Cusomer Satisfaction | Sentiment Analysis
+# Cusomer Satisfaction | Sentiment Analysis
 
 # Introduction
 In this project, we harnessed web scraping tools like Beautiful Soup to compile a diverse dataset of Trustpilot reviews, encompassing both metadata and textual content. Our analysis began with rigorous data cleaning, including addressing missing values and employing text cleaning techniques, ensuring a robust dataset for subsequent exploration. Through the implementation of diverse machine learning models, such as XGBoost, Logistic Regression, and a Neural Network, we achieved impressive sentiment classification accuracy of up to 94% on the test dataset. The project also delved into model interpretation, leveraging feature importance and SHAP analysis to gain insights into the factors shaping predictions, whether derived from metadata or textual data.
