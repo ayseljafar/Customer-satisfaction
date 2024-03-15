@@ -1,6 +1,6 @@
 # Customer Satisfaction | Sentiment Analysis
 
-##This project explored customer sentiment in Trustpilot reviews using a comprehensive toolbox that combined web scraping, machine learning, and Natural Language Processing (NLP) techniques.
+## This project explored customer sentiment in Trustpilot reviews using a comprehensive toolbox that combined web scraping, machine learning, and Natural Language Processing (NLP) techniques.
 
 Data Acquisition and Preprocessing:
 
