@@ -1,5 +1,7 @@
-# Customer Satisfaction | Sentiment Analysis
 
+
+# Customer Satisfaction | Sentiment Analysis
+[Project Link](https://customer-satisfaction.streamlit.app/)
 ## This project explored customer sentiment in Trustpilot reviews using a comprehensive toolbox that combined web scraping, machine learning, and Natural Language Processing (NLP) techniques.
 
 Data Acquisition and Preprocessing:
@@ -19,4 +21,3 @@ Vectorization: Converting tokens into numerical representations suitable for mac
 Word2Vec: Unveiling semantic relationships between words within reviews, enhancing both sentiment classification accuracy and cluster analysis.
 Finally, K-means clustering, an unsupervised learning algorithm, identified recurring themes and patterns within the reviews. This provided a comprehensive view of customer sentiment and valuable insights for businesses seeking to improve customer satisfaction and engagement.
 
-[You can view the Project here](https://customer-satisfaction.streamlit.app/)
