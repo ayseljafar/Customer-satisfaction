@@ -15,6 +15,8 @@ nltk.download('punkt',download_dir='nltk_data')
 nltk.download('averaged_perceptron_tagger',download_dir='nltk_data')
 nltk.download('wordnet',download_dir='nltk_data')
 nltk.download('omw-1.4', download_dir='nltk_data')
+import os
+nltk.data.path.append(os.path.join(os.path.dirname(__file__), 'nltk_data'))
 nltk.data.path.append('nltk_data')
 
 # Read the dataset
